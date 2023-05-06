@@ -18,3 +18,8 @@ Below, you can see 2 sphere traces coming from the player. Trace 0 misses the re
 
 <img src="images\vault-01-trace-example.png">
 
+## Stage 02 - Forward Distance
+
+The Stage 2 Blueprint shows 
+
+<img src="images\vault-02-calc-forward-distance-blueprint.png">
