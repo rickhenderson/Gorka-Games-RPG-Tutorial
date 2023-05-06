@@ -9,3 +9,8 @@ Check list:
 * Did you restart the editor?
 
 <img src="images\vault-stage-01.png">
+
+In this next image, you can see 2 sphere traces coming from the player. Trace 0 misses the red barrier block. Trace 1 hits the block, and so far our blueprint is set to stop after we get a hit.
+
+<img src="images\vault-01-trace-example.png">
+
