@@ -20,6 +20,10 @@ Below, you can see 2 sphere traces coming from the player. Trace 0 misses the re
 
 ## Stage 02 - Forward Distance
 
-The Stage 2 Blueprint shows 
+The Stage 2 Blueprint shows the **Branch** and **Break Hit Result** nodes coming directly from the **Sphere Trace by Channel** node in the Stage 1 blueprint.
+
+Click the image to enlarge it if necessary. 
+
+The value `100` subracted to find the end trace location can also be converted to a parameter to make it easier to fine tune your vaulting.
 
 <img src="images\vault-02-calc-forward-distance-blueprint.png">
