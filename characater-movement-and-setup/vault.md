@@ -10,7 +10,11 @@ Check list:
 
 <img src="images\vault-stage-01.png">
 
-In this next image, you can see 2 sphere traces coming from the player. Trace 0 misses the red barrier block. Trace 1 hits the block, and so far our blueprint is set to stop after we get a hit.
+In the next image, you can see all three sphere traces, and two have hits.
+
+<img src="images\vault-01-trace-example-two-hits.png">
+
+Below, you can see 2 sphere traces coming from the player. Trace 0 misses the red barrier block. Trace 1 hits the block, and so far our blueprint is set to stop after we get a hit. This happens after Stage 1 of the blueprint is completed, and you connect the **True** pin from the first branch node back to the **Break** pin of the first **For Loop With Break** node.
 
 <img src="images\vault-01-trace-example.png">
 
